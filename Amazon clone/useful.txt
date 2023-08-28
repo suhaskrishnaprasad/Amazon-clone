@@ -1,0 +1,5 @@
+This is done inspecting amazon parallely 
+
+font awesome : for font
+cdnjs : content delivery network used to link libraries from somewhere , we are using this to copy library(css file) link from font awesome
+.nav-search: by doing this it will create div automatically
